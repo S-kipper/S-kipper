@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools that I am currently using </h3>
+<h3 align="left">🛠 Known Langugaes</h3>
 
 ###
 
