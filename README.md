@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm ... from West Bengal<br><br>- 🔭 I’m currently studying in Dayanand Sagar University, Bangalore, India<br>- 📚 I'm currently learning GoLang.<br>- ⚡ In my free time I try making Games.<br>-👀 I’m interested in Game Development.</p>
+<p align="left"><br><br>- 🔭 I’m currently studying in Dayanand Sagar University, Bangalore, India<br>- 📚 I'm currently learning GoLang.<br>- ⚡ In my free time I try making Games.<br>-👀 I’m interested in Game Development.</p>
 
 ###
 
